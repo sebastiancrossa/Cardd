@@ -1,4 +1,6 @@
 .venv
+venv
+.vscode
 *.pyc
 __pycache__/
 *.jpeg
@@ -6,3 +8,6 @@ __pycache__/
 *.png
 *.sqlite3
 *.swp
+.vscode
+venv
+.DS_Store
